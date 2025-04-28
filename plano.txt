@@ -1,0 +1,13 @@
+resol214.pdf
+ ↓
+Extração Estruturada (capítulos, artigos, parágrafos)
+ ↓
+Usar LLM para extrair regras e condições (valores, prazos, taxas)
+ ↓
+Realizar mapeamento para banco de dados relacional (via tool)
+ ↓
+Gerar e executar consultas SQL
+ ↓
+Validar valores
+ ↓
+Gerar de relatórios de conformidade
